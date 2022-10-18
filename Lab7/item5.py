@@ -1,3 +1,14 @@
+#ส่วนไหน
+#นำ code จากข้อ 1 มาเปลี่ยนเป็น
+# T = BST()
+# inp = [int(i) for i in input('Enter Input : ').split()]
+# for i in range(1, len(inp)):
+#     root = T.insert(inp[i])
+# T.printTree(root)
+# T.checkpos(inp[0])
+# เพื่อหาว่าค่าแรกที่ใส่เข้าไปอยู่ที่ตำแหน่งใดใน BST
+
+
 class Node:
     def __init__(self, data):
         self.data = data
