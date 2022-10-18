@@ -1,3 +1,5 @@
+#หาค่า height#
+#ให้น้องรับ input แล้วนำ input นั้นมาสร้าง Binary Search Tree โดย input ตัวแรกสุดจะเป็น Root เสมอ จากนั้นหาความสูงของ Binary Search Tree  นั้น#
 class Node:
     def __init__(self, data):
         self.data = data
