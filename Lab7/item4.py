@@ -1,3 +1,5 @@
+#สนุกไปกับ Binary Search Tree#
+#ให้น้องรับ input เข้ามาและสร้าง Binary Search Tree ต่อมาให้แสดงผลแบบ Preorder , Inorder , Postorder และ Breadth First Search ตามลำดับ#
 class Node:
     def __init__(self, data):
         self.data = data
